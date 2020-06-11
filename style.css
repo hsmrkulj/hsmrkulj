@@ -612,11 +612,9 @@ textarea.contact-form-text {
     padding-bottom: 50px;
 }
 
-..interests-personal-img div div div .justified{
-    padding-bottom: 30px;
-}
 .interests-personal-img{
     margin-top: 15px;
+    padding-bottom: 30px;
 }
 
 .footer{
