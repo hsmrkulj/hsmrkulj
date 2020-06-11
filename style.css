@@ -359,7 +359,8 @@ h2.subheading {
 
     color: #ff7400;
     font-family: "montserrat";
-    font-size: 30px; 
+    font-size: 25px; 
+    text-align: center;
     font-weight: normal; 
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     text-transform: uppercase;
@@ -540,11 +541,6 @@ textarea.contact-form-text {
    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
 }
   
-.interests-personal-img{
-    margin-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-}
 
 .card {
     background-color: whitesmoke;
@@ -604,8 +600,33 @@ textarea.contact-form-text {
 
  .work-experience-img div div div .justified{
      padding-right: 15px;
+     padding-left: 5px;
+     padding-bottom: 30px;
  }
 
  .achievements-education-img div div div .justified{
     padding-right: 15px;
+    padding-left: 5px;
+    padding-bottom: 30px;
+}
+
+.achievements-education-img {
+    padding-bottom: 50px;
+}
+
+..interests-personal-img div div div .justified{
+    padding-bottom: 30px;
+}
+.interests-personal-img{
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.footer{
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #888;
+    font-size: small;
 }
