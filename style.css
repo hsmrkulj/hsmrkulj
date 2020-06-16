@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 
+
+/* HOMESCREEN */
+
 .background {
     margin: 0;
     padding: 0;
@@ -77,7 +80,7 @@
     width: 100%;
     max-width: 1500px;
     text-align: center;
-    padding: 0 40px;
+    padding: 0 10px;
     box-sizing: border-box;
 }
 
@@ -170,6 +173,8 @@ ul {
     margin-top: 15%;
 }
 
+/* BUTTONS AND LOGOS */
+
 a {
     margin: 0 10px;
     width: 50px;
@@ -250,21 +255,52 @@ a:hover i::before {
     background-image: linear-gradient(135deg, #ff7400 30%, #0a3d62 50%);
 }
 
+.logo {
+    left: 0;
+    right: 0;
+    display: block;
+    top: 0;
+    bottom: 0;
+  }
 
+/* FONTS AND HEADINGS */
 
 h2.subheading {
     color: black;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .paragraph {
     color: black;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .justified {
     text-align: justify;
     text-align-last: left;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
+
+.section h1 {
+    text-align: center;
+    color: #ff7400;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    margin-top: 30px;
+}
+
+.border {
+    width: 100px;
+    height: 10px;
+    background: #ff7400;
+    margin: 40px auto;
+
+}
+
+/* SKILL BAR */
 
 .skills {
     width: 100%;
@@ -331,6 +367,18 @@ h2.subheading {
 }
 
 
+.right-skils .skills .skill .skill-bar .skill-per{
+    float: right;
+}
+.right-skils .skills .skill .skill-bar .skill-per::before{
+    right: 100%;
+}
+.right-skils .skills .skill .skill-bar .skill-per::after{
+    right: 100%;
+}
+
+/* MENUS */
+
 .menubar {
     padding: 20px;
     float: center;
@@ -380,25 +428,13 @@ h2.subheading {
 }
 
 
-.right-skils .skills .skill .skill-bar .skill-per{
-    float: right;
-}
-.right-skils .skills .skill .skill-bar .skill-per::before{
-    right: 100%;
-}
-.right-skils .skills .skill .skill-bar .skill-per::after{
-    right: 100%;
-}
 
 .text {
-    color: #888;
+    color: rgb(153, 147, 147);
     padding: 0;
     overflow: hidden;
-    /*   max-height: 0 initial; */
     max-height: 0 initial;
-
 }
-
 
 
 .personal-card-txt {
@@ -414,12 +450,6 @@ h2.subheading {
 }
 
 
-.section h1 {
-    text-align: center;
-    color: #ff7400;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
 
 .item {
     width: 100px 100%;
@@ -429,13 +459,7 @@ h2.subheading {
     margin: center;
 }
 
-.border {
-    width: 100px;
-    height: 10px;
-    background: #ff7400;
-    margin: 40px auto;
-
-}
+/* CONTACT FORM */
 
 .contact-form {
     max-width: 600px;
@@ -540,6 +564,19 @@ textarea.contact-form-text {
     border-color: black;
    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
 }
+
+  .carousel-inner .item img{
+    width: 500px;
+}
+
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ 
+/* SECTIONS AND MENUS */
   
 
 .card {
@@ -583,44 +620,35 @@ textarea.contact-form-text {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   }
 
-
-  .carousel-inner .item img{
-    width: 500px;
+  .contact{
+    margin-top: 80px;
 }
 
-  .center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- }
+.work-experience-img div div div .justified{
 
- .contact{
-     margin-top: 80px;
- }
-
- .work-experience-img div div div .justified{
-     padding-right: 15px;
-     padding-bottom: 30px;
- }
-
- .achievements-education-img div div div .justified{
-    padding-right: 15px;
     padding-bottom: 30px;
 }
 
-.interests-personal-img div div div .justified{
-    padding-bottom: 30px;
+.achievements-education-img div div div .justified{
+
+   padding-bottom: 30px;
+}
+
+.interests-personal-img div div .justified{
+   padding-bottom: 30px;
+
 }
 
 .achievements-education-img {
-    padding-bottom: 50px;
+   padding-bottom: 50px;
 }
 
 .interests-personal-img{
-    margin-top: 15px;
-    padding-bottom: 30px;
-    padding-right: 15px;
+   margin-top: 15px;
+   padding-bottom: 30px;
+
 }
+
 
 .footer{
     margin-top: 15px;
