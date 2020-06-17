@@ -255,6 +255,14 @@ a:hover i::before {
     background-image: linear-gradient(135deg, #ff7400 30%, #0a3d62 50%);
 }
 
+.fa-skype::before {
+    background-image: linear-gradient(135deg, #00aff0 30%, #0a3d62 50%);
+}
+
+.fa-github::before {
+    background-image: linear-gradient(135deg, #314397 30%, #0a3d62 50%);
+}
+
 .logo {
     left: 0;
     right: 0;
@@ -626,12 +634,14 @@ textarea.contact-form-text {
 
 .work-experience-img div div div .justified{
 
+    padding-top: 30px;
     padding-bottom: 30px;
 }
 
 .achievements-education-img div div div .justified{
 
-   padding-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .interests-personal-img div div .justified{
@@ -645,6 +655,7 @@ textarea.contact-form-text {
 
 .interests-personal-img{
    margin-top: 15px;
+   padding-top: 30px;
    padding-bottom: 30px;
 
 }
