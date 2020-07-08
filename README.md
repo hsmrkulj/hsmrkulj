@@ -8,4 +8,5 @@ better font for H1 and less agressive gradient for accordition headlines,
 fix alignment of + icon in the accordition zone,
 fix Personal card area (layout),
 fix gallery navigation buttons alignment (to center),
-fix broken GitHub link (new repo name)
+fix broken GitHub link (new repo name),
+clear junk code and not used classes from recent iterations
