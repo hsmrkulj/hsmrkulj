@@ -4,8 +4,8 @@ Productive engineer with experience in software industry, public sector, agronom
 To-dos for 1.6:
 
 switch off zoom on mobile devices,
-better font for H1,
-fix accordition + icon alignment,
+better font for H1 and less agressive gradient for accordition headlines,
+fix alignment of + icon in the accordition zone,
 fix Personal card area (layout),
 fix gallery navigation buttons alignment (to center),
 fix broken GitHub link (new repo name)
