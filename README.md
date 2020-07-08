@@ -7,4 +7,5 @@ switch off zoom on mobile devices,
 better font for H1,
 fix accordition + icon alignment,
 fix Personal card area (layout),
-fix gallery navigation buttons alignment (to center)
+fix gallery navigation buttons alignment (to center),
+fix broken GitHub link (new repo name)
