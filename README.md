@@ -1,4 +1,4 @@
-# hsmrkulj
+# hsmrkulj @home
 Productive engineer with experience in software industry, public sector, agronomy, education, telecommunication, sales; and much more!
 
 To-dos for 1.6:
