@@ -9,7 +9,8 @@ fix alignment of + icon in the accordition zone,
 fix Personal card area (layout),
 fix gallery navigation buttons alignment (to center),
 fix broken GitHub link (new repo name),
-clear junk code and not used classes from recent iterations
+clear junk code and not used classes from recent iterations,
+title the page
 
 
 
