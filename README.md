@@ -11,7 +11,10 @@ fix gallery navigation buttons alignment (to center),
 fix broken GitHub link (new repo name),
 clear junk code and not used classes from recent iterations
 
+
+
 To-dos for 2.0 (due December 2020):
+
 add Projects section (4th accordition), 
 "beautify" the code, 
 styling improvement
