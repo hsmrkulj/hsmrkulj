@@ -24,4 +24,4 @@ include ALT description an images,
 utilize Schema.org markup with validation of markup with the Google Structured Data Testing Tool,
 add robots.txt file,
 activate Google™ Analytics for monitoring website,
-addXML sitemap
+add XML sitemap
