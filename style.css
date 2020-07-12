@@ -115,7 +115,7 @@
 
 
 .box {
-    width: 500px;
+    width: 400px;
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
@@ -577,7 +577,7 @@ textarea.contact-form-text {
 }
 
   .carousel-inner .item img{
-    width: 500px;
+    width: 750px;
 }
 
   .center-block {
@@ -668,4 +668,16 @@ textarea.contact-form-text {
     margin-top: 15px;
     color: #888;
     font-size: small;
+}
+
+.right.carousel-control{
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.left.carousel-control{
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle;
 }
