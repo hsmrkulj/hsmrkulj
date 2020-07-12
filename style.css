@@ -115,7 +115,7 @@
 
 
 .box {
-    width: 400px;
+    width: 350px;
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
@@ -412,7 +412,7 @@ h2.subheading {
     font-family: 'Luckiest Guy', cursive;
 }
 
-h1.title {
+.title {
 
     color: #F6F2F2;
     font-size: 28px; 
