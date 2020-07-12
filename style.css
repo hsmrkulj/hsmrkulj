@@ -344,7 +344,7 @@ h2.subheading {
 
 .skill-per {
     height: 20px;
-    background-color: #ff7400;
+    background-image: linear-gradient(to bottom right,#F37335, #FDC830);
     border-radius: 8px;
     width: 0;
     transition: 1s linear;
