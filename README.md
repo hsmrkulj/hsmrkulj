@@ -2,7 +2,7 @@
 Productive engineer with experience in software industry, public sector, agronomy, education, telecommunication, sales; and much more!
 
 
-Roadmap for 2.0:
+Roadmap for next milestone:
 
 preload the images and heavy data,
 add Projects section (4th accordition), 
