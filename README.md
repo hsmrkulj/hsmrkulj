@@ -4,6 +4,7 @@ Productive engineer with experience in software industry, public sector, agronom
 
 Roadmap for 2.0:
 
+preload the images and heavy data,
 add Projects section (4th accordition), 
 "beautify" the code, 
 styling improvement,
