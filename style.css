@@ -47,7 +47,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background: url(background.png) no-repeat center;
+    background: url(background.jpg) no-repeat center;
     background-size: cover;
     opacity: .3;
     animation: anim 15s linear infinite;
@@ -268,6 +268,7 @@ a:hover i::before {
     align-content: center;
 }
 
+
 .fa-envelope::before {
     background-image: linear-gradient(135deg, #d44638 30%, #0a3d62 50%);
     vertical-align: middle;
@@ -291,6 +292,7 @@ a:hover i::before {
     vertical-align: middle;
     align-content: center;
 }
+
 
 .logo {
     left: 0;
